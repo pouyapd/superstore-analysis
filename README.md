@@ -35,7 +35,7 @@ Here are some of the main dashboards created in Power BI:
 
 ## 📂 Project Structure
 
-superstore_analyse/
+Superstore_Analysis/
 │
 ├── data/                 # Dataset (CSV/Excel)
 ├── sql/                  # MySQL queries
